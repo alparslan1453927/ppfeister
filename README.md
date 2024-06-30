@@ -32,7 +32,7 @@ GPG available via select public keyservers: `0xEC68CB3A265302B7`
 <h2></h2>
 
 <h3>
-Other SCMs
+Other open source involvement
 <!--
 <a href="">
 <img align="right" src="" />
@@ -43,8 +43,16 @@ Other SCMs
 -->
 </h3>
 
-[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)][GitLab]
-&nbsp;[![Salsa](https://img.shields.io/badge/Salsa-D70A53.svg?style=for-the-badge&logo=debian&logoColor=white)][Debian Salsa]
+<!--[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)][GitLab]-->
+[![Salsa](https://img.shields.io/badge/Debian%20Salsa-D70A53.svg?style=for-the-badge&logo=debian&logoColor=white)][Debian Salsa]
+&nbsp;[![Fedora Package Sources](https://img.shields.io/badge/Fedora%20Pagure-3c6eb4.svg?style=for-the-badge&logo=fedora&logoColor=white)][Fedora Pagure]
+&nbsp;[![Pagure](https://img.shields.io/badge/Pagure-7968b6.svg?style=for-the-badge&logo=redhat&logoColor=white)][Pagure]
+
+### Popular packaged projects
+
+- [__Sherlock Project__][sherlock-github] package maintained for [__Fedora__][sherlock-fedora], [__DockerHub__][sherlock-dockerhub], and [__PyPI__](https://pypi.org/project/sherlock/)
+
+___
 
 <p align="left">
     <img src="https://github-profile-trophy.vercel.app/?username=ppfeister&no-frame=true&no-bg=true&theme=nord&margin-w=20&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="Trophies GitHub" />
@@ -66,7 +74,13 @@ Allow more time to be spent on open source
 [Keybase]: https://keybase.io/ppfeister
 [GitLab]: https://gitlab.com/ppfeister
 [Debian Salsa]: https://salsa.debian.org/ppfeister
+[Pagure]: https://pagure.io/user/ppfeister
+[Fedora Pagure]: https://src.fedoraproject.org/user/ppfeister/projects
 [GitHub Sponsors]: https://github.com/sponsors/ppfeister
+
+[sherlock-github]: https://github.com/sherlock-project/sherlock
+[sherlock-fedora]: https://src.fedoraproject.org/rpms/sherlock-project
+[sherlock-dockerhub]: https://hub.docker.com/r/sherlock/sherlock
 
 
 <!-- Saved assets
