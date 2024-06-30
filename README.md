@@ -50,7 +50,7 @@ Other open source involvement
 
 ### Popular packaged projects
 
-- [__Sherlock Project__][sherlock-github] package maintained for [__Fedora__][sherlock-fedora], [__DockerHub__][sherlock-dockerhub], and [__PyPI__](https://pypi.org/project/sherlock/)
+- [__Sherlock Project__][sherlock-github] package maintained for [__Fedora__][sherlock-fedora], [__DockerHub__][sherlock-dockerhub], and [__PyPI__][sherlock-pypi]
 
 ___
 
@@ -81,6 +81,7 @@ Allow more time to be spent on open source
 [sherlock-github]: https://github.com/sherlock-project/sherlock
 [sherlock-fedora]: https://src.fedoraproject.org/rpms/sherlock-project
 [sherlock-dockerhub]: https://hub.docker.com/r/sherlock/sherlock
+[sherlock-pypi]: https://pypi.org/project/sherlock-project/
 
 
 <!-- Saved assets
