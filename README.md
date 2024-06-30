@@ -29,7 +29,7 @@ GPG available via select public keyservers: `0xEC68CB3A265302B7`
 &nbsp;[![Telegram](https://img.shields.io/badge/Telegram-24A1DE?style=for-the-badge&logo=telegram&logoColor=white)][Telegram]
 &nbsp;[![Keybase](https://img.shields.io/badge/Keybase-ff7300?style=for-the-badge&logo=keybase&logoColor=white)][Keybase]
 
-<h2></h2>
+___
 
 <h3>
 Other open source involvement
@@ -52,12 +52,13 @@ Other open source involvement
 
 - [__Sherlock Project__][sherlock-github] package maintained for [__Fedora__][sherlock-fedora], [__DockerHub__][sherlock-dockerhub], and [__PyPI__][sherlock-pypi]
 
+<!--
 ___
 
 <p align="left">
     <img src="https://github-profile-trophy.vercel.app/?username=ppfeister&no-frame=true&no-bg=true&theme=nord&margin-w=20&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="Trophies GitHub" />
 </p>
-
+-->
 ___
 
 <h3>
