@@ -23,7 +23,7 @@
 
 If you need to get in touch ASAP for some reason, email is available and not hard to find.
 
-GPG available via select public keyservers: `0xEC68CB3A265302B7`
+GPG available via select public keyservers: `EC68 CB3A 2653 02B7`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)][LinkedIn]
 &nbsp;[![Telegram](https://img.shields.io/badge/Telegram-24A1DE?style=for-the-badge&logo=telegram&logoColor=white)][Telegram]
@@ -45,12 +45,13 @@ Other open source involvement
 
 <!--[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)][GitLab]-->
 [![Salsa](https://img.shields.io/badge/Debian%20Salsa-D70A53.svg?style=for-the-badge&logo=debian&logoColor=white)][Debian Salsa]
-&nbsp;[![Fedora Package Sources](https://img.shields.io/badge/Fedora%20Pagure-3c6eb4.svg?style=for-the-badge&logo=fedora&logoColor=white)][Fedora Pagure]
+&nbsp;[![Fedora Package Sources](https://img.shields.io/badge/Fedora%20Packages-3c6eb4.svg?style=for-the-badge&logo=fedora&logoColor=white)][Fedora Pagure]
 &nbsp;[![Pagure](https://img.shields.io/badge/Pagure-7968b6.svg?style=for-the-badge&logo=redhat&logoColor=white)][Pagure]
 
-### Popular packaged projects
+### Popular packages
 
 - [__Sherlock Project__][sherlock-github] package maintained for [__Fedora__][sherlock-fedora], [__DockerHub__][sherlock-dockerhub], and [__PyPI__][sherlock-pypi]
+- [__RustScan__][rustscan-github] package maintained for [__Fedora__][rustscan-fedora]
 
 <!--
 ___
@@ -84,6 +85,8 @@ Allow more time to be spent on open source
 [sherlock-dockerhub]: https://hub.docker.com/r/sherlock/sherlock
 [sherlock-pypi]: https://pypi.org/project/sherlock-project/
 
+[rustscan-github]: https://github.com/RustScan/RustScan
+[rustscan-fedora]: https://src.fedoraproject.org/rpms/rustscan
 
 <!-- Saved assets
 
