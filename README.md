@@ -46,9 +46,9 @@ Other open source involvement
 <!--[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)][GitLab]-->
 [![Salsa](https://img.shields.io/badge/Debian%20Salsa-D70A53.svg?style=for-the-badge&logo=debian&logoColor=white)][Debian Salsa]
 &nbsp;[![Fedora Package Sources](https://img.shields.io/badge/Fedora%20Packages-3c6eb4.svg?style=for-the-badge&logo=fedora&logoColor=white)][Fedora Pagure]
-&nbsp;[![Pagure](https://img.shields.io/badge/Pagure-7968b6.svg?style=for-the-badge&logo=redhat&logoColor=white)][Pagure]
+<!--&nbsp;[![Pagure](https://img.shields.io/badge/Pagure-7968b6.svg?style=for-the-badge&logo=redhat&logoColor=white)][Pagure]-->
 
-### Popular packages
+### Popular projects packaged
 
 - [__Sherlock__][sherlock-github] package maintained for [__Fedora__][sherlock-fedora], [__DockerHub__][sherlock-dockerhub], and [__PyPI__][sherlock-pypi]
 - [__RustScan__][rustscan-github] package maintained for [__Fedora__][rustscan-fedora]
