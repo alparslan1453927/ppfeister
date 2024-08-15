@@ -51,8 +51,9 @@ Other open source involvement
 ### Some popular projects packaged...
 
 - [__Sherlock__][sherlock-github] package maintained for [__Fedora__][sherlock-fedora], [__DockerHub__][sherlock-dockerhub], and [__PyPI__][sherlock-pypi]
-- [__RustScan__][rustscan-github] package in the works
+- [__RustScan__][rustscan-github] package in the works for Fedora
 - [__pwntools__][pwntools-github] package maintained for [__Fedora__][pwntools-fedora]
+- [__spaCy__][spacy-github] package in the works for Fedora ([~30 dependencies to go](https://raw.githubusercontent.com/ppfeister/pkg/master/sylva_tree.md))
 
 <!--
 ___
@@ -91,6 +92,8 @@ Allow more time to be spent on open source
 
 [pwntools-github]: https://github.com/Gallopsled/pwntools
 [pwntools-fedora]: https://src.fedoraproject.org/rpms/python-pwntools
+
+[spacy-github]: https://github.com/explosion/spaCy
 
 <!-- Saved assets
 
