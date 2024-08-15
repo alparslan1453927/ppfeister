@@ -48,7 +48,7 @@ Other open source involvement
 &nbsp;[![Fedora Package Sources](https://img.shields.io/badge/Fedora%20Packages-3c6eb4.svg?style=for-the-badge&logo=fedora&logoColor=white)][Fedora Pagure]
 <!--&nbsp;[![Pagure](https://img.shields.io/badge/Pagure-7968b6.svg?style=for-the-badge&logo=redhat&logoColor=white)][Pagure]-->
 
-### Packages maintained for...
+### Some popular projects packaged...
 
 - [__Sherlock__][sherlock-github] package maintained for [__Fedora__][sherlock-fedora], [__DockerHub__][sherlock-dockerhub], and [__PyPI__][sherlock-pypi]
 - [__RustScan__][rustscan-github] package in the works
