@@ -51,7 +51,7 @@ Other open source involvement
 ### Packages maintained for...
 
 - [__Sherlock__][sherlock-github] package maintained for [__Fedora__][sherlock-fedora], [__DockerHub__][sherlock-dockerhub], and [__PyPI__][sherlock-pypi]
-- [__RustScan__][rustscan-github] package maintained for [__Fedora__][rustscan-fedora]
+- [__RustScan__][rustscan-github] package in the works
 - [__pwntools__][pwntools-github] package maintained for [__Fedora__][pwntools-fedora]
 
 <!--
